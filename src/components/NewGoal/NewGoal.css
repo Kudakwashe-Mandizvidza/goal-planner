@@ -1,0 +1,22 @@
+.new-goal{
+    text-align: center;
+    margin: 2rem;
+    padding: 0;
+}
+
+.new-goal input{
+    margin-right: 5px;
+    padding: 10px;
+    border:1px solid #ccc;
+    position: relative;
+    width: 50%;
+    outline: none;
+}
+
+.new-goal button{
+    padding: 10px;
+    font-weight: 500;
+    background:green;
+    border: none;
+    color: white;
+}
